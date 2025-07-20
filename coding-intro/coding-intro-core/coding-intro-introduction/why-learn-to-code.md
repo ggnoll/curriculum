@@ -67,3 +67,5 @@ Let's revisit our short journey into the land with Python! Do you remember how t
 - manifest
 - reveal
 - splash
+-®®vbvzh
+-manay
